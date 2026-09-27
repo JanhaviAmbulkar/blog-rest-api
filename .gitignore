@@ -1,0 +1,8 @@
+node_modules
+.env
+dist
+
+# TypeScript compiled files
+*.js
+*.js.map
+*.d.ts
